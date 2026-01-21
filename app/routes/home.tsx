@@ -370,7 +370,7 @@ export const projects = [
     githubUrl: "https://github.com/HFsa-RaShid/tutoria-client",
     clientGithub: "https://github.com/HFsa-RaShid/tutoria-client",
     serverGithub: "https://github.com/HFsa-RaShid/tutoria-server",
-    image: "../../public/tutoria.png",
+    image: "/tutoria.png",
   },
   {
     id: "meetup",
@@ -398,7 +398,7 @@ export const projects = [
     githubUrl: "https://github.com/takbirgazi/meetup-client/tree/main",
     clientGithub: "https://github.com/takbirgazi/meetup-client/tree/main",
     serverGithub: "https://github.com/takbirgazi/meetup-server",
-    image: "../../public/meetup.png",
+    image: "/meetup.png",
   },
   {
     id: "educonnect",
@@ -417,7 +417,7 @@ export const projects = [
     githubUrl: "https://github.com/HFsa-RaShid/edu-connect-client",
     clientGithub: "https://github.com/HFsa-RaShid/edu-connect-client",
     serverGithub: "https://github.com/HFsa-RaShid/edu-connect-server",
-    image: "../../public/educonnect.png",
+    image: "/educonnect.png",
   },
   {
     id: "resty",
@@ -436,7 +436,7 @@ export const projects = [
     githubUrl: "https://github.com/HFsa-RaShid/resty-client",
     clientGithub: "https://github.com/HFsa-RaShid/resty-client",
     serverGithub: "https://github.com/HFsa-RaShid/resty-server",
-    image: "../../public/resty.png",
+    image: "/resty.png",
   },
 ] as const;
 
